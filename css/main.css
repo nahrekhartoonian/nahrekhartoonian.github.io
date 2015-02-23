@@ -52,6 +52,7 @@ ul.menu li a:hover{
   vertical-align:center;
   text-align:center;
   background-color:black;
+  float:left;
   color:white;
   width:660px;
   height:30px
