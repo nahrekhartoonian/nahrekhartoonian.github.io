@@ -1,0 +1,68 @@
+body 	{
+	font-family: calibri;
+}
+header 	{
+	background-color:black;
+	padding:15px;
+	color:white;
+	text-align:center;
+	font-size:200%;
+}
+nav.menu {
+	background-color:lightgray;
+	color:black;
+	padding:1px;
+	font-size:110%;
+}	
+nav.menu ul li {
+	display:inline-block;
+	margin: 0px 20px 0px 20px;
+	padding: 5px;
+}
+nav.menu ul li a{
+	text-decoration:none;
+}
+nav.sidebar {
+	background-color:gray;
+	color:white;
+	float:left;
+	height:1050px;
+	margin:0px 10px 0px 0px;
+}
+nav.sidebar p{
+	font-size:110%;
+	margin:20px 0px 10px 10px;
+	font-weight:bold;
+}
+nav.sidebar p a{
+	text-decoration:none;
+	color:white;
+}
+nav.sidebar ul li{
+	list-style-type:none;
+	margin:0px 20px 10px -25px; 
+	padding:5px;
+	line-height:15px;
+	font-size:110%;
+}
+nav.sidebar ul li a{
+	text-decoration:none;
+	color:white;
+}
+nav.sidebar ul li a:hover{
+	background-color:white;
+	text-decoration:none;
+	color:gray;
+	width:100%
+}
+section {
+	margin:-10px 0px 0px 100px;
+	padding:5px 5px 5px 45px;
+	height:100vh;
+}
+footer 	{
+	background-color:black;
+	color:white;
+	text-align:center;
+	font-size:50%;
+}
