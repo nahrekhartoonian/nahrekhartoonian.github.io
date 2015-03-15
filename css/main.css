@@ -17,9 +17,9 @@ nav.menu {
 	padding:1px;
 	font-size:110%;
 	margin:0px auto;
-	top:50px
+	top:50px;
 	position:fixed;
-	width:100%
+	width:100%;
 }	
 nav.menu ul li {
 	display:inline-block;
