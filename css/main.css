@@ -9,7 +9,6 @@ header 	{
 	font-size:200%;
 	position:fixed;
 	width:100%;
-	height:60px;
 }
 nav.menu {
 	background-color:lightgray;
@@ -17,10 +16,8 @@ nav.menu {
 	padding:1px;
 	font-size:110%;
 	margin:0px auto;
-	top:60px;
-	position:fixed;
+	position:absolute;
 	width:100%;
-	height:60px;
 }	
 nav.menu ul li {
 	display:inline-block;
