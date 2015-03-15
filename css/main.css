@@ -8,7 +8,7 @@ header 	{
 	text-align:center;
 	font-size:200%;
 	position:fixed;
-	
+	width:100%;
 }
 nav.menu {
 	background-color:lightgray;
