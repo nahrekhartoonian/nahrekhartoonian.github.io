@@ -69,12 +69,9 @@ nav.sidebar ul li a:hover{
 	width:100%
 }
 section {
-	margin:-10px 0px 0px 100px;
+	margin:132px 0px 0px 155px;
 	padding:5px 5px 5px 45px;
 	height:100vh;
-	left:200px;
-	top:132px;
-	position:fixed;
 }
 footer 	{
 	background-color:black;
