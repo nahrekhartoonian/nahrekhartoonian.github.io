@@ -33,8 +33,7 @@ nav.sidebar {
 	color:white;
 	float:left;
 	height:1050px;
-	margin:0px 10px 0px 0px;
-	top:120px
+	margin:130px 10px 0px 0px;
 }
 nav.sidebar p{
 	font-size:110%;
@@ -63,10 +62,9 @@ nav.sidebar ul li a:hover{
 	width:100%
 }
 section {
-	margin:-10px 0px 0px 100px;
+	margin:120px 0px 0px 100px;
 	padding:5px 5px 5px 45px;
 	height:100vh;
-	top:120px
 }
 footer 	{
 	background-color:black;
