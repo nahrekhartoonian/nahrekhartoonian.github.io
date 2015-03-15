@@ -8,7 +8,6 @@ header 	{
 	text-align:center;
 	font-size:200%;
 	position:fixed;
-	width:100%;
 }
 nav.menu {
 	background-color:lightgray;
@@ -16,7 +15,6 @@ nav.menu {
 	padding:1px;
 	font-size:110%;
 	position:fixed;
-	width:100%;
 }	
 nav.menu ul li {
 	display:inline-block;
@@ -32,7 +30,7 @@ nav.sidebar {
 	float:left;
 	height:1050px;
 	margin:0px 10px 0px 0px;
-	position:fixed;
+	position:fixed
 }
 nav.sidebar p{
 	font-size:110%;
