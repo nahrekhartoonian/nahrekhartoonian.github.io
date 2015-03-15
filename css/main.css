@@ -9,6 +9,8 @@ header 	{
 	font-size:200%;
 	position:fixed;
 	width:100%;
+	top:0px;
+	left:0px;
 }
 nav.menu {
 	background-color:lightgray;
@@ -19,6 +21,7 @@ nav.menu {
 	position:fixed;
 	width:100%;
 	top:65px;
+	left:0px;
 }	
 nav.menu ul li {
 	display:inline-block;
@@ -32,7 +35,7 @@ nav.sidebar {
 	background-color:gray;
 	color:white;
 	height:1050px;
-	width:150px;
+	width:200px;
 	top:120px;
 	left:0px;
 	position:fixed;
