@@ -35,6 +35,7 @@ nav.sidebar {
 	height:1050px;
 	margin:0px 10px 0px 0px;
 	top:120px
+	position:relative;
 }
 nav.sidebar p{
 	font-size:110%;
