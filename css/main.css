@@ -16,7 +16,7 @@ nav.menu {
 	padding:1px;
 	font-size:110%;
 	margin:0px auto;
-	position:absolute;
+	position:fixed;
 	width:100%;
 	top:65px;
 }	
