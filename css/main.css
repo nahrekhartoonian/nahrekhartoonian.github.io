@@ -73,6 +73,9 @@ section {
 	padding:5px 5px 5px 45px;
 	height:100vh;
 }
+section ul li {
+	margin-left:0px;
+}
 footer 	{
 	background-color:black;
 	color:white;
