@@ -1,94 +1,16 @@
-body 	{
-	font-family: calibri;
+p.jumbotronp {
+	font-size:1em;
 }
-header 	{
-	background-color:black;
-	padding:15px;
-	color:white;
-	text-align:center;
-	font-size:200%;
-	position:fixed;
-	width:100%;
-	top:0px;
-	left:0px;
+.test {
+	padding:5px 10px 15px 10px;
+	background-color:#eee;
+	border-radius:6px;
+	margin-top:-15px;
+	margin-bottom:30px;
+	border:5px solid #eee;
 }
-nav.menu {
-	background-color:lightgray;
-	color:black;
-	padding:1px;
-	font-size:110%;
-	margin:0px auto;
-	position:fixed;
-	width:100%;
-	top:65px;
-	left:0px;
-	height:65px;
-}	
-nav.menu ul li {
-	display:inline-block;
-	margin: 0px 1% 0px 1%;
-	padding: 5px 0px 5px 0px;
-	vertical-align:middle;
-}
-nav.menu ul li a{
-	text-decoration:none;
-}
-nav.sidebar {
-	background-color:gray;
-	color:white;
-	height:1050px;
-	width:200px;
-	top:132px;
-	left:0px;
-	position:fixed;
-}
-nav.sidebar p{
-	font-size:110%;
-	margin:20px 0px 10px 10px;
-	font-weight:bold;
-	width:200px;
-}
-nav.sidebar p a{
-	text-decoration:none;
-	color:white;
-	width:200px;
-}
-nav.sidebar p a:hover{
-	background-color:white;
-	text-decoration:none;
-	color:gray;
-	width:200px;
-}
-nav.sidebar ul li{
-	list-style-type:none;
-	margin:0px 20px 10px -25px; 
-	padding:5px;
-	line-height:15px;
-	font-size:110%;
-	width:200px;
-}
-nav.sidebar ul li a{
-	text-decoration:none;
-	color:white;
-	width:200px;
-}
-nav.sidebar ul li a:hover{
-	background-color:white;
-	text-decoration:none;
-	color:gray;
-	width:200px;
-}
-section {
-	margin:117px 0px 0px 165px;
-	padding:5px 5px 5px 45px;
-	height:100vh;
-}
-section ul {
-	margin-left:5px;
-}
-footer 	{
-	background-color:black;
-	color:white;
-	text-align:center;
-	font-size:50%;
+pre {
+	display:inline;
+	border:none;
+	background-color:#eee;	
 }
