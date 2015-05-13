@@ -18,3 +18,12 @@ pre {
 	background-color:#222;
 	text-align:center;
 }
+a.anchor {
+	display: block; 
+	position: relative; 
+	top: -30px; 
+	visibility: hidden;
+}
+.jumbotron-experience {
+	margin-bottom:-20px;
+}
