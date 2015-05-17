@@ -17,13 +17,43 @@ pre {
 .footer {
 	background-color:#222;
 	text-align:center;
+	margin-top:50px;
 }
 a.anchor {
 	display: block; 
 	position: relative; 
-	top: -30px; 
+	top: -40px; 
 	visibility: hidden;
 }
 .jumbotron-experience {
 	margin-bottom:-20px;
 }
+.well-padding {
+	padding-left:19px;
+	padding-top:0px;
+	margin-top:0px;
+}
+#sidebar {
+	padding-right:15px;
+	margin-top:10px;
+}
+#sidebar li{
+	border:0 #f2f2f2 solid;
+	border-bottom-width:1px;
+	border-collapse:collapse;
+}
+hr {
+	margin-bottom:0px;
+}
+.li-h4 {
+	margin-top:20px;
+	padding-left:-10px;
+	font-size:1.25em;
+}
+.section-header {
+	margin-top:0px;
+}
+
+
+
+
